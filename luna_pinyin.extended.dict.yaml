@@ -13,7 +13,7 @@ import_tables:
   - luna_pinyin.sogou
   # 以下来源：https://github.com/ahxxm/rime_config/blob/master/luna_pinyin.extended.dict.yaml
   - moegirl  # 萌娘百科
-  - zhwiki-20220127  # 维基百科
+  # - zhwiki-20220127  # 维基百科
   # - luna_pinyin.hanyu  # 汉语大词典，多为2字词。 2.2w
   # - luna_pinyin.idiom  # 俗语，如题，含常用俗语，文青必备。6.6w
   # - luna_pinyin.poetry  # 常用诗词，来源于唐宋诗词、千家詩、花間集、楚辭、詩經。 2.6w
